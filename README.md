@@ -1,5 +1,5 @@
 <p align="center">
- <img src="github_banner.png">
+ <img src="banner_github.png">
  </p>
 
 # Gustavo Soares
