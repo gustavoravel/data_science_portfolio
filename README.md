@@ -1,6 +1,6 @@
 <p align="center">
  <img src="github_banner.png">
- <\p>
+ </p>
   
 # Gustavo Soares
 
