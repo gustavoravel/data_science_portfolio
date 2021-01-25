@@ -5,8 +5,8 @@ As a Data Scientist, I'm eager to find new problems to solve with Artificial Int
 My educational background includes a BSc Computer Science from Universidade Paulista (UNIP), one of the most respected universities in Brazil and online courses in Datacamp, Udacity, Khan Academy and Sigmoidal.ai, institutions focused on data science and mathematics.
 
 Links:
-  LinkedIn(https://www.linkedin.com/in/gustavo-ravel/)
-  Medium(https://medium.com/@ravelsoares.lima)
+  * [LinkedIn](https://www.linkedin.com/in/gustavo-ravel/)
+  * [Medium](https://medium.com/@ravelsoares.lima)
   
 ## Projects:
 
