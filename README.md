@@ -1,4 +1,6 @@
-
+<p align="center">
+ <img src="github_banner.png">
+ </p>
 
 # Gustavo Soares
 
