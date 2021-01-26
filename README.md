@@ -14,4 +14,4 @@ Links:
   
 ## Projects:
 
-* Analyzing London Airbnb Data (Exploratory Data Analysis) - https://bit.ly/2LUzIRX
+* Analyzing London Airbnb Data (Exploratory Data Analysis) - https://bit.ly/3qWwBI1
