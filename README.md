@@ -15,3 +15,4 @@ Links:
 ## Projects:
 
 * Analyzing London Airbnb Data (Exploratory Data Analysis) - https://bit.ly/3qWwBI1
+* Analyzing Violence in Rio de Janeiro (Exploratory Data Analysis; Time Series Manipulation)- https://bit.ly/36U5Qwf
