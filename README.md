@@ -10,7 +10,7 @@ My educational background includes a BSc in Computer Science from Universidade P
 
 Links:
   * [LinkedIn](https://www.linkedin.com/in/gustavo-ravel/)
-  * [Medium](https://medium.com/@ravelsoares.lima)
+  * [Medium](https://ravelsoares-lima.medium.com/)
   
 ## Projects:
 
