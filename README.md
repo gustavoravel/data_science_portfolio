@@ -17,4 +17,5 @@ Links:
 * Analyzing London Airbnb Data (Exploratory Data Analysis) - https://bit.ly/3qWwBI1
 * Analyzing Violence in Rio de Janeiro (Exploratory Data Analysis; Time Series Manipulation)- https://bit.ly/36U5Qwf
 * Panorama of COVID-19 in Brazil (Data Visualization; Time Series Visualization) - https://bit.ly/3jWnkxh
-* Credit Card Fraud Detection (Supervised Machine Learning)- https://bit.ly/2MnzWkK
+* Credit Card Fraud Detection (Supervised Machine Learning) - https://bit.ly/2MnzWkK
+* Método Box-Jenkins para Previsão de Séries Temporais (Time Series Forecasting) - https://bit.ly/3zxJNHZ
