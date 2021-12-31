@@ -19,3 +19,4 @@ Links:
 * Panorama of COVID-19 in Brazil (Data Visualization; Time Series Visualization) - https://bit.ly/3jWnkxh
 * Credit Card Fraud Detection (Supervised Machine Learning) - https://bit.ly/2MnzWkK
 * Método Box-Jenkins para Previsão de Séries Temporais (Time Series Forecasting) - https://bit.ly/3zxJNHZ
+* Churn Prediction for a Telecom Company (Supervised Machine Learning)- https://bit.ly/3mMIjVP
